@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paul's Portfolio - Junior Data Analyst</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="images/profile_picture.jpg" alt="Paul's Profile Picture">
+    <h1>Paul</h1>
+    <p>Junior Data Analyst</p>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Hello! I'm Paul, a passionate Junior Data Analyst with half a year's experience in the field. My love for data and problem-solving drives me to explore insights and deliver meaningful solutions.</p>
+    </section>
+
+    <section id="experience">
+      <h2>Experience</h2>
+      <p>Data Analyst Intern - XYZ Company (6 months)</p>
+      <ul>
+        <li>Processed and analyzed large datasets, identifying trends and patterns.</li>
+        <li>Assisted in creating reports and visualizations for stakeholders.</li>
+        <li>Contributed to data cleaning and validation efforts to ensure data accuracy.</li>
+      </ul>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Data Analysis</li>
+        <li>Data Cleaning</li>
+        <li>Data Visualization</li>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>Excel</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <p>Coming soon! I'm currently working on exciting data projects. Stay tuned!</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <p>If you'd like to connect or discuss potential opportunities, feel free to reach out to me:</p>
+      <ul>
+        <li>Email: paul@email.com</li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/paul-data-analyst">linkedin.com/in/paul-data-analyst</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Paul | Junior Data Analyst</p>
+  </footer>
+</body>
+</html>
